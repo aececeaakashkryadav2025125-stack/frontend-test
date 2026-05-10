@@ -3,8 +3,8 @@
 A modern responsive plant ecommerce landing page built using Next.js, TypeScript, and Tailwind CSS.
 
 ## Live Demo
+https://frontend-test-three-beta.vercel.app/
 
-https://frontend-test-dm3d-jgdpz6ncadgyhtx1m6bgwo5v.vercel.app
 
 ## Features
 
