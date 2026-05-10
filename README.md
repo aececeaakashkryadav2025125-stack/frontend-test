@@ -4,7 +4,7 @@ A modern responsive plant ecommerce landing page built using Next.js, TypeScript
 
 ## Live Demo
 
-Add your Vercel deployed link here.
+https://frontend-test-dm3d-jgdpz6ncadgyhtx1m6bgwo5v.vercel.app
 
 ## Features
 
